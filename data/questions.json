@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "According to the Ramayana tradition, what is celebrated on Diwali?",
+    "options": [
+      "Rama's return to Ayodhya",
+      "Krishna's wedding",
+      "The Pandavas' coronation",
+      "Shiva's journey to Kailash"
+    ],
+    "correct": 0,
+    "category": "Mythology"
+  },
+  {
+    "id": 2,
+    "question": "How many years did Lord Rama spend in exile?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "16"
+    ],
+    "correct": 2,
+    "category": "Mythology"
+  },
+  {
+    "id": 3,
+    "question": "Which demon was defeated by Krishna, an event associated with Naraka Chaturdashi?",
+    "options": [
+      "Ravana",
+      "Narakasura",
+      "Kansa",
+      "Mahishasura"
+    ],
+    "correct": 1,
+    "category": "Mythology"
+  },
+  {
+    "id": 4,
+    "question": "Which goddess is especially worshipped on the main Diwali night in many regions?",
+    "options": [
+      "Saraswati",
+      "Durga",
+      "Lakshmi",
+      "Parvati"
+    ],
+    "correct": 2,
+    "category": "Traditions"
+  },
+  {
+    "id": 5,
+    "question": "What does the word Deepavali commonly mean?",
+    "options": [
+      "Festival of colours",
+      "A row of lamps",
+      "Harvest moon",
+      "Victory song"
+    ],
+    "correct": 1,
+    "category": "Traditions"
+  },
+  {
+    "id": 6,
+    "question": "Which Sikh observance is associated with the release of Guru Hargobind from Gwalior Fort?",
+    "options": [
+      "Bandi Chhor Divas",
+      "Hola Mohalla",
+      "Vaisakhi",
+      "Gurpurab of Guru Nanak"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 7,
+    "question": "Which Jain event is commemorated around Diwali?",
+    "options": [
+      "Mahavira's nirvana",
+      "Rishabhanatha's birth",
+      "Paryushana's beginning",
+      "The first Jain council"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 8,
+    "question": "Which day traditionally begins the five-day Diwali festival in much of North India?",
+    "options": [
+      "Bhai Dooj",
+      "Govardhan Puja",
+      "Dhanteras",
+      "Kartik Purnima"
+    ],
+    "correct": 2,
+    "category": "Traditions"
+  },
+  {
+    "id": 9,
+    "question": "What is commonly worshipped on Govardhan Puja?",
+    "options": [
+      "The Govardhan hill and Krishna",
+      "The ocean",
+      "The Sun only",
+      "The sacred river Ganga"
+    ],
+    "correct": 0,
+    "category": "Mythology"
+  },
+  {
+    "id": 10,
+    "question": "Bhai Dooj celebrates the bond between whom?",
+    "options": [
+      "Friends",
+      "Siblings",
+      "Teachers and students",
+      "Neighbours"
+    ],
+    "correct": 1,
+    "category": "Traditions"
+  },
+  {
+    "id": 11,
+    "question": "In which Indian state is Kali Puja a major celebration around Diwali?",
+    "options": [
+      "Punjab",
+      "West Bengal",
+      "Himachal Pradesh",
+      "Goa"
+    ],
+    "correct": 1,
+    "category": "Traditions"
+  },
+  {
+    "id": 12,
+    "question": "Which city is famously associated with the grand lighting of lamps on the banks of the Sarayu during Deepotsav?",
+    "options": [
+      "Ayodhya",
+      "Ujjain",
+      "Mathura",
+      "Nashik"
+    ],
+    "correct": 0,
+    "category": "Places"
+  },
+  {
+    "id": 13,
+    "question": "What is the traditional name for the account books worship ritual performed by some business communities around Diwali?",
+    "options": [
+      "Chopda Pujan",
+      " ಅನ್ನadanam",
+      "Onam Sadhya",
+      "Bhoomi Puja"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 14,
+    "question": "Which oil is commonly used in traditional earthen diyas?",
+    "options": [
+      "Mustard or sesame oil",
+      "Olive oil only",
+      "Coconut cream",
+      "Butter"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 15,
+    "question": "What is a toran traditionally hung at a doorway made from?",
+    "options": [
+      "Fresh leaves and flowers",
+      "Metal chains only",
+      "Paper currency",
+      "Glass beads only"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 16,
+    "question": "Which epic is the main source for the story of Rama's return to Ayodhya?",
+    "options": [
+      "Mahabharata",
+      "Ramayana",
+      "Arthashastra",
+      "Panchatantra"
+    ],
+    "correct": 1,
+    "category": "Mythology"
+  },
+  {
+    "id": 17,
+    "question": "Who is traditionally described as Ravana's brother who joined Rama?",
+    "options": [
+      "Kumbhakarna",
+      "Vibhishana",
+      "Indrajit",
+      "Maricha"
+    ],
+    "correct": 1,
+    "category": "Mythology"
+  },
+  {
+    "id": 18,
+    "question": "Which character in the Ramayana is known for bringing the Sanjeevani herb?",
+    "options": [
+      "Hanuman",
+      "Lakshmana",
+      "Bharata",
+      "Jambavan"
+    ],
+    "correct": 0,
+    "category": "Mythology"
+  },
+  {
+    "id": 19,
+    "question": "Which festival follows Diwali in the Hindu lunar calendar as the new year for many Gujarati communities?",
+    "options": [
+      "Bestu Varas",
+      "Lohri",
+      "Baisakhi",
+      "Ugadi"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 20,
+    "question": "What is the name of the sweet made from gram flour, ghee and sugar, often shaped into small balls?",
+    "options": [
+      "Besan ladoo",
+      "Jalebi",
+      "Rasgulla",
+      "Kheer"
+    ],
+    "correct": 0,
+    "category": "Food"
+  },
+  {
+    "id": 21,
+    "question": "Which sweet is made by soaking fried spirals in sugar syrup?",
+    "options": [
+      "Peda",
+      "Jalebi",
+      "Mysore pak",
+      "Sandesh"
+    ],
+    "correct": 1,
+    "category": "Food"
+  },
+  {
+    "id": 22,
+    "question": "Kaju katli is primarily made using which nut?",
+    "options": [
+      "Almond",
+      "Pistachio",
+      "Cashew",
+      "Walnut"
+    ],
+    "correct": 2,
+    "category": "Food"
+  },
+  {
+    "id": 23,
+    "question": "Which Bollywood film features the song 'Aayi Hai Diwali'?",
+    "options": [
+      "Aamdani Atthanni Kharcha Rupaiya",
+      "Mohabbatein",
+      "Kabhi Khushi Kabhie Gham",
+      "Hum Saath-Saath Hain"
+    ],
+    "correct": 0,
+    "category": "Bollywood"
+  },
+  {
+    "id": 24,
+    "question": "Which film features the family song sequence 'Bole Chudiyan'?",
+    "options": [
+      "Dilwale Dulhania Le Jayenge",
+      "Kabhi Khushi Kabhie Gham",
+      "Hum Aapke Hain Koun",
+      "Kal Ho Naa Ho"
+    ],
+    "correct": 1,
+    "category": "Bollywood"
+  },
+  {
+    "id": 25,
+    "question": "Who played Lord Rama in Ramanand Sagar's 1987 television series Ramayan?",
+    "options": [
+      "Arun Govil",
+      "Nitish Bharadwaj",
+      "Mukesh Khanna",
+      "Sunil Lahri"
+    ],
+    "correct": 0,
+    "category": "Screen"
+  },
+  {
+    "id": 26,
+    "question": "Which actor played Krishna in the television series Mahabharat (1988)?",
+    "options": [
+      "Arun Govil",
+      "Nitish Bharadwaj",
+      "Puneet Issar",
+      "Gufi Paintal"
+    ],
+    "correct": 1,
+    "category": "Screen"
+  },
+  {
+    "id": 27,
+    "question": "Which of these is NOT a Bollywood film?",
+    "options": [
+      "Ram Setu",
+      "Adipurush",
+      "The Dark Knight",
+      "Golmaal"
+    ],
+    "correct": 2,
+    "category": "Bollywood"
+  },
+  {
+    "id": 28,
+    "question": "Which film's title literally refers to a bridge associated with the Ramayana?",
+    "options": [
+      "Ram Setu",
+      "Swades",
+      "Lagaan",
+      "Dangal"
+    ],
+    "correct": 0,
+    "category": "Bollywood"
+  },
+  {
+    "id": 29,
+    "question": "In the film 'Om Shanti Om', which actor plays Om Kapoor?",
+    "options": [
+      "Ranbir Kapoor",
+      "Shah Rukh Khan",
+      "Salman Khan",
+      "Aamir Khan"
+    ],
+    "correct": 1,
+    "category": "Bollywood"
+  },
+  {
+    "id": 30,
+    "question": "Which Indian festival is often called the festival of lights?",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Pongal",
+      "Baisakhi"
+    ],
+    "correct": 1,
+    "category": "Quick Fire"
+  },
+  {
+    "id": 31,
+    "question": "Which colour is traditionally associated with prosperity and auspiciousness in many Diwali decorations?",
+    "options": [
+      "Black",
+      "Red",
+      "Grey",
+      "Blue only"
+    ],
+    "correct": 1,
+    "category": "Quick Fire"
+  },
+  {
+    "id": 32,
+    "question": "What is the main purpose of making rangoli at the entrance?",
+    "options": [
+      "Welcome and auspicious decoration",
+      "Mark a parking space",
+      "Keep rain away",
+      "Measure the doorway"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 33,
+    "question": "Which of these is a common eco-friendlier choice for festive lighting?",
+    "options": [
+      "LED string lights",
+      "High-smoke fireworks",
+      "Burning plastic",
+      "Open flames near curtains"
+    ],
+    "correct": 0,
+    "category": "Quick Fire"
+  },
+  {
+    "id": 34,
+    "question": "Which planet is named after the Roman goddess of love and is also visible as the bright 'evening star'?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct": 1,
+    "category": "Bonus"
+  },
+  {
+    "id": 35,
+    "question": "Which ancient Indian text is traditionally associated with the story of Narakasura's defeat?",
+    "options": [
+      "Bhagavata Purana",
+      "Charaka Samhita",
+      "Natya Shastra",
+      "Yoga Sutras"
+    ],
+    "correct": 0,
+    "category": "Mythology"
+  },
+  {
+    "id": 36,
+    "question": "Which city is famous for the annual 'Dev Deepawali' celebration several days after Diwali?",
+    "options": [
+      "Varanasi",
+      "Jaipur",
+      "Pune",
+      "Kochi"
+    ],
+    "correct": 0,
+    "category": "Places"
+  },
+  {
+    "id": 37,
+    "question": "Which of these is traditionally associated with Dhanteras?",
+    "options": [
+      "Buying utensils or precious metals",
+      "Flying kites",
+      "Playing with colours",
+      "Welcoming monsoon"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 38,
+    "question": "What is the name of the small clay lamp lit during Diwali?",
+    "options": [
+      "Diya",
+      "Kalash",
+      "Thali",
+      "Matka"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 39,
+    "question": "Which flower is especially common in Diwali garlands and decorations?",
+    "options": [
+      "Marigold",
+      "Tulip",
+      "Lavender",
+      "Daffodil"
+    ],
+    "correct": 0,
+    "category": "Traditions"
+  },
+  {
+    "id": 40,
+    "question": "What is the most likely reason a guest says 'I'll just have one more mithai'?",
+    "options": [
+      "They are conducting a sugar audit",
+      "The first one was only a sample",
+      "They are saving room for salad",
+      "They forgot how to count"
+    ],
+    "correct": 1,
+    "category": "Funny"
+  },
+  {
+    "id": 41,
+    "question": "At a Diwali buffet, what is the most strategic first move?",
+    "options": [
+      "Inspect every counter before committing",
+      "Take only dessert",
+      "Stand beside the water jug",
+      "Ask for the bill immediately"
+    ],
+    "correct": 0,
+    "category": "Funny"
+  },
+  {
+    "id": 42,
+    "question": "What does 'kal se pakka diet' usually mean after a Diwali feast?",
+    "options": [
+      "A legally binding nutrition contract",
+      "A promise made under influence of gulab jamun",
+      "A new yoga posture",
+      "The name of a sweet"
+    ],
+    "correct": 1,
+    "category": "Funny"
+  },
+  {
+    "id": 43,
+    "question": "Who is most likely to say 'No gifts, please' and then inspect every gift bag?",
+    "options": [
+      "The family detective",
+      "The host",
+      "The neighbour's dog",
+      "The electrician"
+    ],
+    "correct": 1,
+    "category": "Funny"
+  },
+  {
+    "id": 44,
+    "question": "What is the unofficial unit of measurement for Diwali mithai consumption?",
+    "options": [
+      "Kilowatt",
+      "Ladoo-count",
+      "Decibel",
+      "Kilometre"
+    ],
+    "correct": 1,
+    "category": "Funny"
+  },
+  {
+    "id": 45,
+    "question": "What happens when the family photographer says 'one last picture'?",
+    "options": [
+      "Everyone leaves instantly",
+      "At least 17 more photos happen",
+      "The lights switch off",
+      "The sweets disappear"
+    ],
+    "correct": 1,
+    "category": "Funny"
+  },
+  {
+    "id": 46,
+    "question": "Which Diwali guest is most likely to arrive exactly when dinner is served?",
+    "options": [
+      "The punctual planner",
+      "The 'just five minutes away' champion",
+      "The early bird",
+      "The caterer"
+    ],
+    "correct": 1,
+    "category": "Funny"
+  },
+  {
+    "id": 47,
+    "question": "What is the true test of a successful Diwali party playlist?",
+    "options": [
+      "Everyone knows at least one song",
+      "It contains only instrumental music",
+      "It ends after two minutes",
+      "No one dances"
+    ],
+    "correct": 0,
+    "category": "Funny"
+  },
+  {
+    "id": 48,
+    "question": "What is the most common fate of the decorative gift box after the sweets are finished?",
+    "options": [
+      "It is immediately recycled",
+      "It becomes a storage box",
+      "It is launched into space",
+      "It turns into a diya"
+    ],
+    "correct": 1,
+    "category": "Funny"
+  },
+  {
+    "id": 49,
+    "question": "If someone says 'I am only here for the quiz', what are they most likely also waiting for?",
+    "options": [
+      "The prize and the dinner",
+      "A tax audit",
+      "A staff meeting",
+      "A fire drill"
+    ],
+    "correct": 0,
+    "category": "Funny"
+  },
+  {
+    "id": 50,
+    "question": "What is the most valuable skill when carrying a plate at a crowded Diwali buffet?",
+    "options": [
+      "Balancing snacks, sweets and dignity",
+      "Walking backwards",
+      "Memorising everyone's plate",
+      "Avoiding all food"
+    ],
+    "correct": 0,
+    "category": "Funny"
+  }
+]
